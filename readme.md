@@ -9,6 +9,11 @@ Create a Web API that when called:
 - Allows an integrator to filter on the user id – so just returns the albums and photos relevant
 to a single user.
 
+## Requirements
+
+- .NET Core 2.2
+- Tested on Visual Studio 16.2.3
+
 ## Endpoints
 
 ### Albums
